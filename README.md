@@ -2,4 +2,4 @@
 
 This is a really awesome website
 
-New editing on update-readme branch
+Updates made on master on GitHub before rebase
